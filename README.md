@@ -1,30 +1,27 @@
-# Financeiro — Controle e Desvios de Contratos (Power BI)
+# Financeiro — Fluxo de Caixa e Inadimplência (Power BI)
 
 ## Objetivo
-Analisar contratos aprovados versus serviços efetivamente executados,
-identificando desvios financeiros, diferenças por item e variações
-por contrato e período.
+Análisar de fluxo de caixa (entradas, despesas, caixa) e inadimplência de clientes.
 
 ## Contexto do Projeto
-Projeto demonstrativo com foco em controle financeiro e acompanhamento
-de execução contratual, utilizando dados fictícios estruturados para
+Projeto demonstrativo com foco em controle financeiro e acompanhamento, 
+utilizando dados fictícios estruturados para
 simular cenários reais de prestação de serviços.
 
 O projeto demonstra boas práticas de ETL, modelagem e criação de
 indicadores financeiros para apoio à gestão.
 
 ## Escopo Analítico
-- Contratos aprovados
-- Serviços executados
-- Comparação planejado x realizado
-- Análise de desvios positivos e negativos
+- Contas a Receber
+- Contas a Pagar
+- Fluxo de Caixa
+- Inadimplência
 
 ## Principais Indicadores
 - Valor aprovado
 - Valor executado
 - Desvio financeiro (R$)
 - Percentual de execução
-- Diferença por item e contrato
 
 ## Ferramentas Utilizadas
 - Power BI Desktop
